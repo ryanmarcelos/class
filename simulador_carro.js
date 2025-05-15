@@ -23,4 +23,4 @@ class Carro {
 
 const c = new Carro("Civic", "preto");
 c.acelerar(30); 
-//c.frear(10);   
+c.frear(10);    
